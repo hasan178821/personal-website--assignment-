@@ -59,6 +59,9 @@ p{
     .about-section{
         height: 500px;
     }
+    .about-info {
+        padding-top: 4%;
+    }
 /* About Section End */
 
 /* Project Section Start */
